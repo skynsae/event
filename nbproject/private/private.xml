@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/interview/event/src/java/com/pra/manager/UserManager.java</file>
+            <file>file:/E:/interview/event/src/java/com/pra/model/Event.java</file>
+            <file>file:/E:/interview/event/web/WEB-INF/jsp/main.jsp</file>
+            <file>file:/E:/interview/event/src/java/com/pra/stripes/LoginActionBean.java</file>
+            <file>file:/E:/interview/event/src/java/com/pra/model/EventFile.java</file>
+            <file>file:/E:/interview/event/src/java/com/pra/dao/EventDAO.java</file>
+            <file>file:/E:/interview/event/src/java/hibernate.cfg.xml</file>
+            <file>file:/E:/interview/event/web/css/bootstrap.css</file>
+            <file>file:/E:/interview/event/src/java/able.properties</file>
+            <file>file:/E:/interview/event/web/WEB-INF/decorators/main_layout.jsp</file>
+            <file>file:/E:/interview/event/src/java/com/pra/stripes/action/ViewEventfileAction.java</file>
+            <file>file:/E:/interview/event/src/java/root.properties</file>
+            <file>file:/E:/interview/event/web/WEB-INF/jsp/editNewEvent.jsp</file>
+            <file>file:/E:/interview/event/web/css/style.css</file>
+            <file>file:/E:/interview/event/web/index.jsp</file>
+            <file>file:/E:/interview/event/web/WEB-INF/jsp/newEvent.jsp</file>
+            <file>file:/E:/interview/event/src/java/com/pra/dao/HibernateDAO.java</file>
+        </group>
+    </open-files>
+</project-private>

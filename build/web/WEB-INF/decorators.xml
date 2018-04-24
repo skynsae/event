@@ -1,0 +1,11 @@
+<decorators defaultdir="/WEB-INF/decorators">
+    <excludes>
+        <pattern>/*popup=true*</pattern>
+    </excludes>
+    <decorator name="main" page="main_layout.jsp">
+        <pattern>/WEB-INF/jsp/*</pattern>
+    </decorator>
+   
+</decorators>
+
+

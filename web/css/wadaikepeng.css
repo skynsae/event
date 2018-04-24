@@ -1,0 +1,295 @@
+
+body{
+    background-color: #005998;
+    font-size: 9pt;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-image: url(../images/login/lineLogin.jpg);
+    background-repeat: repeat-x; 
+    background-position: 50px 145px;
+}
+.copyright{
+    width: 300px; 
+    overflow: auto; 
+    height: 20px; 
+    margin: 0; 
+    position: relative; 
+    top: -10px; 
+    left: 333px; 
+    font-size: 8pt;
+}
+
+.backPortal{
+    width: 70px; 
+    overflow: auto; 
+    height: 60px; 
+    margin: 0; 
+    position: relative; 
+    top: 25px; 
+    left: 530px;
+    font-size: 10pt;
+}
+
+.tagline{
+    overflow: auto; 
+    margin: 0; 
+    position: relative; 
+    top: -20px; 
+    left: 20px;    
+}
+
+.msgInfo{
+    width: 325px; 
+    overflow: auto; 
+    height: 30px; 
+    margin: 0; 
+    position: relative; 
+    top: -71px; 
+    left: 477px;
+}
+
+.loginMsg{
+    width: 300px; 
+    overflow: auto; 
+    height: 20px; 
+    margin: 0; 
+    position: relative; 
+    top: -40px; 
+    left: 333px;
+    font-size: 11pt 
+}
+
+.languages{
+    width: 500px; 
+    overflow: auto; 
+    height: 20px; 
+    margin: 0; 
+    position: relative; 
+    top: -55px; 
+    left: 60px; 
+    font-weight: bold;
+}
+
+.agentCode{
+    width: 200px; 
+    overflow: auto; 
+    height: 20px; 
+    margin: 0; 
+    position: relative; 
+    top: -32px; 
+    left: 340px; 
+    color: #000000;
+    font-size: 11pt  
+
+}
+
+.agentInput{
+    width: 200px; 
+    overflow: auto; 
+    height: 25px; 
+    margin: 0; 
+    position: relative; 
+    top: -57px; 
+    left: 477px; 
+    color: #FFFFFF
+}
+
+.userid{
+    width: 200px; 
+    overflow: auto; 
+    height: 20px; 
+    margin: 0; 
+    position: relative; 
+    top: -50px; 
+    left: 340px; 
+    color: #000000; 
+    font-family: sans-serif;
+    font-size: 10pt;
+}
+
+.useridInput {
+    width: 130px; 
+    overflow: auto; 
+    height: 25px; 
+    margin: 0; 
+    position: relative; 
+    top: -75px; 
+    left: 477px;
+}
+
+.password {
+    width: 200px; 
+    overflow: auto; 
+    height: 20px; 
+    margin: 0; 
+    position: relative; 
+    top: -67px; 
+    left: 340px;
+    font-family: sans-serif;
+    font-size: 10pt;
+}
+
+.passwordInput{
+    width: 130px; 
+    overflow: auto; 
+    height: 25px; 
+    margin: 0; 
+    position: relative; 
+    top: -93px; 
+    left: 477px; 
+}
+
+.buttonSubmit{
+    width: 150px; 
+    overflow: auto; 
+    height: 25px; 
+    margin: 0; 
+    position: relative; 
+    top: -75px; 
+    left: 490px;
+}
+
+.msgInfoUser{
+    width: 325px; 
+    overflow: auto; 
+    height: 40px; 
+    margin: 0; 
+    position: relative; 
+    top: -23px; 
+    left: 300px; 
+    color: red;
+    font-weight: bold;
+}
+
+.languagesUser{
+    width: 500px; 
+    overflow: auto; 
+    height: 30px; 
+    margin: 0; 
+    position: relative; 
+    /*    top: -55px; */
+    top: -45px;
+    left: 60px; 
+    font-weight: bold;
+}
+
+.useridUser{
+    width: 200px; 
+    overflow: auto; 
+    height: 30px; 
+    margin: 0; 
+    position: relative; 
+    /*    top: -32px; */
+    top: -42px;
+    left: 340px; 
+    color: #000000; 
+}
+
+.useridInputUser {
+    width: 130px; 
+    overflow: auto; 
+    height: 30px; 
+    margin: 0; 
+    position: relative; 
+    top: -68px; 
+    left: 477px; 
+}
+
+.passwordUser {
+    width: 200px; 
+    overflow: auto; 
+    height: 30px; 
+    margin: 0; 
+    position: relative; 
+    /*    top: -65px; */
+    top: -75px;
+    left: 340px; 
+    color: #000000; 
+    font-size: 11pt
+}
+
+.passwordInputUser{
+    width: 130px; 
+    overflow: auto; 
+    height: 30px; 
+    margin: 0; 
+    position: relative; 
+    top: -103px; 
+    left: 477px; 
+
+}
+
+.buttonSubmitUser{
+    width: 150px;
+    overflow: auto; 
+    height: 30px; 
+    margin: 0; 
+    position: relative; 
+    /*    top: -58px; */
+    top: -68px;
+    left: 490px; 
+
+}
+
+.buttonSubmitUser2{
+    width: 150px;
+    overflow: auto;
+    height: 30px;
+    margin: 0;
+    position: relative;
+    top: -58px;
+    left: 490px;
+
+}
+.copyrightUser{
+    width: 300px; 
+    overflow: auto; 
+    height: 30px; 
+    margin: 0; 
+    position: relative; 
+    /*    top: 0px; */
+    top: -10px;
+    left: 343px; 
+    font-size: 8pt;
+}
+
+
+a, a:link, a:visited, a:active {
+    font-weight: bold;
+    color: #005998;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+a:hover {
+    color: #002a80;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.btn-primary {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-top: 7px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.btn-primary:hover {
+    background: none;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+}
+
